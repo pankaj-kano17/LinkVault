@@ -4,18 +4,18 @@ LinkVault is a modern, lightweight URL shortening service that converts long URL
 
 ✨ Features
 
-📝 Add new tasks instantly
-❌ Delete tasks easily
-✅ Mark tasks as completed
-🔄 Dynamic UI updates without page reload
-💾 Persistent storage using browser localStorage
-🎨 Clean, minimal, and responsive design
+📝 Add new tasks instantly\
+❌ Delete tasks easily\
+✅ Mark tasks as completed\
+🔄 Dynamic UI updates without page reload\
+💾 Persistent storage using browser localStorage\
+🎨 Clean, minimal, and responsive design\
 
 
 Tech Stack
 
-HTML5 – Structure
-CSS3 – Styling & layout
-JavaScript (Vanilla) – Logic & interactivity
-localStorage – Data persistence
+HTML5 – Structure\
+CSS3 – Styling & layout\
+JavaScript (Vanilla) – Logic & interactivity\
+localStorage – Data persistence\
 
